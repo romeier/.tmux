@@ -266,8 +266,4 @@ set -g mouse on
 # move status line to top
 #set -g status-position top
 
-# set-option -g default-shell /bin/zsh
-
-bind s setw synchronize-panes on
-bind S setw synchronize-panes off
-
+set-option -g default-shell /bin/zsh
