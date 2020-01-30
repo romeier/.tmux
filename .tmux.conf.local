@@ -266,4 +266,4 @@ set -g mouse on
 # move status line to top
 #set -g status-position top
 
-set-option -g default-shell /bin/zsh
+# set-option -g default-shell /bin/zsh
